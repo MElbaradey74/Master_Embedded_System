@@ -20,6 +20,6 @@ int main() {
 
 
 
-	printf("MULTIPLY = %f",n1*n2); /* prints Master_Embedded_System */
+	printf("MULTIPLY = %f",n1*n2);
 	return 0;
 }
